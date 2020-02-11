@@ -3,7 +3,6 @@ package com.example;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
 
 public class three_sum_15 {
